@@ -1,4 +1,4 @@
-# Architectural Visibility Bias: Cache Masking in Mobile PIM Evaluation
+# CacheMask: Quantifying Cache Masking Effect on PIM Suitability for Mobile LLM Inference
 
 This repository contains the full implementation and experimental framework used to study how cache capacity and eviction policies mask the memory intensity of LLM inference kernels on mobile devices.
 
